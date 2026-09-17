@@ -1,0 +1,6 @@
+{
+  "name": "Loto del pantano",
+  "description": "Diorama 3D interactivo de un estanque mágico con flor de loto, tocadiscos de vinilo, gato místico y luciérnagas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
